@@ -1,3 +1,9 @@
-# Welcome to my blog
+# flask-alice
 
-I'm glad you are here. I plan to talk about ...
+A mobile-friendly journal for recording psychedelic journeys.
+
+Written using Python and Flask.
+
+## Installation
+- Weep silently
+- Fix port 5000
